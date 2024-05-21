@@ -1,0 +1,192 @@
+
+
+.image{
+    background-image: url(images/fruits.jpg);
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    opacity: 1;
+    background-attachment: fixed;
+    
+}
+.imag{
+    background-image: url(images/fruits.jpg);
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    opacity: 1;
+    background-attachment: fixed;
+    
+}
+.imagee{
+    background-image: url(images/fruits.jpg);
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    opacity: 1;
+    background-attachment: fixed;
+    
+}
+.imageee{
+    background-image: url(images/fruits.jpg);
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    opacity: 1;
+    background-attachment: fixed;
+    
+}
+.rouge{
+    color: red;
+    font-weight: bold;
+}
+.list{
+    background-color: #7b261a;
+    padding: 20px;
+    
+}
+.nav-item{
+    list-style: none;
+    padding: 10px;
+    font-size: 15px;
+}
+.bas{
+    position: relative;
+    top: -55px;
+
+}
+
+button[type=button]{
+    background-color: #7b261a;
+    color: #fff;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+.work{
+    color: #938676;
+}
+.fond{
+    background-color: #f6e1c5;
+    width: 50%;
+    margin: auto;
+    border-radius: 8px;
+}
+.gauche{
+    position: relative;
+    left: 10%;
+    top: 80px;
+
+}
+.para{
+    letter-spacing: 3px;
+    color: black;
+    font-weight: bold;
+}
+.une{
+    background-color: #b123109a;
+}
+.deux{
+    border: 1px solid white;
+    border-radius: 8px;
+
+}
+.fondd{
+    background-color: #f6e1c5;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    border-radius: 8px;
+    /* width: 100%; */
+}
+
+.right{
+    background-color: #f6e1c5;
+    position: relative;
+    top: 45px;
+    left: 60%;
+    border-radius: 8px;
+
+}
+.left{
+    position: relative;
+    top: -50px;
+    border-radius: 8px;
+
+}
+.imgg{
+    margin: auto;
+}
+.fondee{
+    background-color: #f6e1c5;
+    border-radius: 8px;
+
+
+}
+.fonddd{
+    background-color: #f6e1c5;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    border-radius: 8px;
+    width: 100%;
+}
+footer{
+    background-color: #4d140d;
+}
+@media screen and (max-width:375px) {
+    body{
+        margin: 0;
+    }
+    .fonddd , .une , .deux , .fondd{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .imm{
+        width: 100%;
+    }
+    .gauche , .bas , .left, .right{
+        position: static;
+        
+        
+    }
+    
+}
+@media screen and (max-width:515px) {
+    body{
+        margin: 0;
+    }
+    .fonddd , .une , .deux , .fondd{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .imm{
+        width: 100%;
+    }
+    .gauche , .bas , .left, .right{
+        position: static;
+        
+    }
+    
+}
+@media screen and (max-width: 768px) {
+    body{
+        margin: 0;
+    }
+    .fonddd , .une , .deux , .fondd{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .imm{
+        width: 100%;
+    }
+    .gauche , .bas , .left, .right{
+        position: static;
+        padding: 20px;
+        
+    }
+    
+}
